@@ -1,4 +1,8 @@
 # Burgers
+- The site for a burger restaurant is written using the frontend framework Angular
+- Transfer functionality to the frontend project
+- Write TypeScript code
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
 
